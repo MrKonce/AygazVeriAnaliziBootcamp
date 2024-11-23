@@ -17,3 +17,5 @@ Bu proje, halı alanına (Carpet Area) dayalı olarak konut fiyatlarını tahmin
 ## Sonuçlar
 - Ortalama Mutlak Hata (MAE): 1,188,595
 - Kök Ortalama Kare Hata (RMSE): 1,382,115
+
+PROJE LİNKİ KAGGLE: https://www.kaggle.com/code/emrekonce/house-price-analysis
